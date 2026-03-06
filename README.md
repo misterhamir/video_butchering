@@ -40,7 +40,7 @@ uv sync
 1. **API Keys:** Create a `.env` file in the root directory:
    ```env
    OPENROUTER_API_KEY=your_api_key_here
-   OPENROUTER_MODEL=google/gemini-flash-1.5
+   OPENROUTER_MODEL= pick_your_model here
    ```
 2. **Google Credentials:** Place your Google Service Account `credentials.json` in the root directory.
 3. **Google Sheet:** Update `SHEET_ID` in `pipeline.py` and `ranker.py` to match your target spreadsheet.
