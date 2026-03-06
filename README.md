@@ -1,4 +1,4 @@
-# test-bimo: AI Exercise Video Pipeline
+# AI Exercise Video Pipeline
 
 An automated pipeline for transcribing, segmenting, and categorizing exercise videos using WhisperX and LLMs (via OpenRouter).
 
