@@ -1,0 +1,28 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
+.python-version
+
+# Security & Credentials
+.env
+credentials.json
+
+# Data Directories
+01_raw/*
+02_processing/*
+03_clips/*
+04_done/*
+!01_raw/.gitkeep
+!02_processing/.gitkeep
+!03_clips/.gitkeep
+!04_done/.gitkeep
+
+# OS specific
+.DS_Store

@@ -1,0 +1,12 @@
+[project]
+name = "test-bimo"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.14"
+dependencies = [
+    "ffmpeg-python>=0.2.0",
+    "google-auth>=2.48.0",
+    "gspread>=6.2.1",
+    "nltk>=3.9.3",
+]
